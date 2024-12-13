@@ -1,4 +1,4 @@
-# SmartCoupledSystemsForSensing-Actuation project.
+# Smart Coupled Systems for Sensing and Actuation project.
 This repository contains the final project developed for Smart Coupled Systems for Sensing and Actuation course during Master Degree in Robotics Engineering at University of Genoa. 
 
 ### Collaborators: 
