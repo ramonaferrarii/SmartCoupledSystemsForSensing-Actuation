@@ -7,5 +7,3 @@ This repository contains the final project developed for Smart Coupled Systems f
 - [Ramona Ferrari](https://github.com/ramonaferrarii)
 - [Daniele Rialdi](https://github.com/danielerialdi)
 
-  ## Description of the project
-  ...
